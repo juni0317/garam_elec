@@ -169,12 +169,14 @@
         width: 100%;
         height: auto;
     }
-    
+}
+
+@media screen and (max-width:992px){
     #logo{
-        width: 400px;
+        width: 300px;
         height: auto;
-    }
-}   
+}
+}
     
 @media screen and (max-width:1199.98px) {
     /* 데스크탑 */
